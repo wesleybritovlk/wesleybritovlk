@@ -1,13 +1,17 @@
 ```java
 public static void main(String[] args) {
-    out.print("Hello World! I'm Wesley Brito");
+    log.info("Starting Presentation...");
+    String fullname = "Wesley Brito";
+    out.print("Hello World! I'm " + fullname);
+    log.info("Successful presentation!");
 }
+
 ```
 ###
 <h2 align="right">About me</h2>
 
 ###
-<p align="right">✨ Creating bugs since 2022<br>📚 I'm currently specializing in Java ☕<br>🇧🇷 Born in Taboão da Serra, São Paulo <br>🎯 Goals: Make me the best developer possible! 👨🏼‍💻  <br>🎲 Fun fact: Drinking coffee is a path without return 💍</p>
+<p align="right">✨ Creating bugs and solutions since 2022<br>📚 I am currently specializing in Software Engineering ☕<br>🇧🇷 Born in Taboão da Serra, São Paulo <br>🎯 Goals: Make me the best developer possible! 👨🏼‍💻  <br>🎲 Fun fact: Drinking coffee is a path without return 💍</p>
 
 ###
 <h2 align="left">I code with</h2>
@@ -16,25 +20,23 @@ public static void main(String[] args) {
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="35" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="35" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="35" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="35" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="35" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo"  />
 </div>
 
 ###
@@ -44,13 +46,13 @@ public static void main(String[] args) {
 <div align="right">
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/debian/A81D33" height="35" alt="debian logo"  />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="35" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="35" alt="intellijidea logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="35" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
 </div>
@@ -68,9 +70,6 @@ public static void main(String[] args) {
   </a>
   <a href="https://discord.com/users/292441178937491456" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/wesleybritovlk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
   </a>
 </div>
 
